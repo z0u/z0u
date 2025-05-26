@@ -1,20 +1,25 @@
-I'm a software engineer with a focus on AI safety and alignment. My background spans data platforms, ML systems, 3D visualization, and computational geometry.
+I'm an AI researcher and software engineer with a focus on technical alignment research. My background spans data platforms, ML systems, 3D visualization, and computational geometry.
 
 I have always been interested in ethical tech. I have been an avid user of free software since 2000, and have made significant contributions to large open source software projects (most of which is not apparent from my GitHub history). In the 2010s I became a strong advocate of data ethics, and have been focused on AI safety since 2023 ([thanks to Rob Miles](https://www.youtube.com/@RobertMilesAI)).
 
 ## Areas of expertise
 
-- AI safety research and alignment
+- AI safety: technical alignment research
 - ML engineering and deployment pipelines
 - Data platforms with robust governance
-- 3D graphics, simulation, and computational geometry
-- Web development (full-stack)
+- 3D graphics, game development, simulation, computational geometry, visualization
+- Web development (full-stack, various frameworks)
 - Information retrieval and search systems
 - Systems design
 
 ## Projects
 
-Here are some projects I've worked on (deliberately in vague terms):
+| [![Visualization from an AI developmental interpretability experiment. The figure shows several very colorful scatter plots of embeddings, and their evolution over the course of training.](https://github.com/user-attachments/assets/111671ae-309c-4616-934c-13dd86976b73)](https://z0u.github.io/ex-color-transformer) | [![Screen capture of a line chart being progressively drawn in a Jupyter notebook. The Python code shows two parts: the plotting function is decorated with at-run-hither, meaning that it always runs locally. The training function is decorated with at-run-thither, meaning that it always runs remotely.](https://github.com/user-attachments/assets/5b1d4f94-b03b-4b5d-814f-805fa324ef7e)](https://github.com/z0u/mi-ni) |
+|:--:|:--:|
+| [AI DevInterp experiments](https://z0u.github.io/ex-color-transformer) | [mi-ni: AI research template project](https://github.com/z0u/mi-ni) |
+
+
+Other projects I've worked on (deliberately in vague terms):
 
 ### AI safety research
 
