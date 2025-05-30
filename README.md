@@ -16,7 +16,7 @@ I have always been interested in ethical tech. I have been an avid user of free 
 
 | [![Visualization from an AI developmental interpretability experiment. The figure shows several very colorful scatter plots of embeddings, and their evolution over the course of training.](https://github.com/user-attachments/assets/111671ae-309c-4616-934c-13dd86976b73)](https://z0u.github.io/ex-color-transformer) | [![Screen capture of a line chart being progressively drawn in a Jupyter notebook. The Python code shows two parts: the plotting function is decorated with at-run-hither, meaning that it always runs locally. The training function is decorated with at-run-thither, meaning that it always runs remotely.](https://github.com/user-attachments/assets/5b1d4f94-b03b-4b5d-814f-805fa324ef7e)](https://github.com/z0u/mi-ni) |
 |:--:|:--:|
-| [AI DevInterp experiments](https://z0u.github.io/ex-color-transformer) | [mi-ni: AI research template project](https://github.com/z0u/mi-ni) |
+| [AI DevInterp experiments](https://z0u.github.io/ex-color-transformer) ([source](https://github.com/z0u/ex-color-transformer)) | [mi-ni: AI research template project](https://github.com/z0u/mi-ni) |
 
 
 Other projects I've worked on (deliberately in vague terms):
