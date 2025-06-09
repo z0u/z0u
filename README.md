@@ -41,4 +41,3 @@ Contributions to [Blender](https://blender.org):
 - [Physically-based "classical" SPH solver](https://github.com/blender/blender/commit/f276b3a3cdfa46be051db981395e4d7cb5691b89)
 - [Adaptive time-step for fluid particles](https://github.com/blender/blender/commit/558b646216feaa43abf44eb332d2449c68bf1b39)
 - [Baking (rendering) to vertex colors](https://github.com/blender/blender/commit/5e0e62f0407e15c936bae92d8fec043adee6ab07)
-- [Python 2 -> 3 conversion script](https://github.com/blender/blender/commit/cfa2b4f0a5530e0cdda09d466fff267ad9e7eccc)
