@@ -19,7 +19,7 @@ I have always been interested in ethical tech. I have been an avid user of free 
 | [AI DevInterp experiments](https://z0u.github.io/ex-color-transformer) ([source](https://github.com/z0u/ex-color-transformer)) | [mi-ni: AI research template project](https://github.com/z0u/mi-ni) |
 
 
-Other projects I've worked on (deliberately in vague terms):
+Other projects I've worked on (some in deliberately in vague terms):
 
 ### AI safety research
 
@@ -36,3 +36,9 @@ Other projects I've worked on (deliberately in vague terms):
 - **3D web experience**: Led development of a highly-usable 3D web app for architectural visualization and design.
 - **Interactive simulation tools**: Created novel solvers for 3D engineering simulations with real-time interactive visualizations.
 - **3D adventure game**: Built a unique game featuring innovative physics for character movement and environment interaction.
+
+Contributions to [Blender](https://blender.org):
+- [Physically-based "classical" SPH solver](https://github.com/blender/blender/commit/f276b3a3cdfa46be051db981395e4d7cb5691b89)
+- [Adaptive time-step for fluid particles](https://github.com/blender/blender/commit/558b646216feaa43abf44eb332d2449c68bf1b39)
+- [Baking (rendering) to vertex colors](https://github.com/blender/blender/commit/5e0e62f0407e15c936bae92d8fec043adee6ab07)
+- [Python 2 -> 3 conversion script](https://github.com/blender/blender/commit/cfa2b4f0a5530e0cdda09d466fff267ad9e7eccc)
