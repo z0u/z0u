@@ -50,15 +50,15 @@ A library and template repository to quickly spin up new AI research projects.
 
 A slick visual timer app.
 
-[Source](https://github.com/z0u/mi-ni)
+[Source](https://github.com/z0u/mi-ni) •&nbsp;[progressive web app](z0u.github.io/coil-timer)
 
 <br><br>
 
-#### S. Cargo
+#### S. Cargo 🐚
 
 A unique game featuring innovative physics for character movement and environment interaction.
 
-[Source](https://github.com/z0u/cargo)
+[Source](https://github.com/z0u/cargo) •&nbsp;[trailer](https://youtu.be/ToiUdV42aZY)
 
 <br><br>
 
