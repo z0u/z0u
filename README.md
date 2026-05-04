@@ -1,28 +1,27 @@
-I'm an AI researcher and software engineer with a focus on technical alignment research. My background spans data platforms, ML systems, 3D visualization, and computational geometry.
-
-I have always been interested in ethical tech. I have been an avid user of free software since 2000, and have made significant contributions to large open source software projects (most of which is not apparent from my GitHub history). In the 2010s I became a strong advocate of data ethics, and have been focused on AI safety since 2023 ([thanks to Rob Miles](https://www.youtube.com/@RobertMilesAI)).
+I'm an AI safety researcher and software engineer with a focus on technical alignment research. My background spans data platforms, ML systems, 3D visualization, and computational geometry.
 
 <br>
 
 ## Projects
 
-#### Prescriptive representation engineering
+#### Sparse Concept Anchoring
 
 A novel research agenda to impose _just enough_ structure on latent embeddings to make AI more interpretable and steerable.
 
-[Notebooks](https://z0u.github.io/ex-color-transformer) •&nbsp;[source](https://github.com/z0u/ex-color-transformer) •&nbsp;[articles](https://www.lesswrong.com/s/DNGjFBTxEJCpceyGn)
+[Paper @ ICLR 2026](https://arxiv.org/abs/2512.12469) •&nbsp;[notebooks](https://z0u.github.io/ex-preppy) •&nbsp;[source](https://github.com/z0u/ex-preppy) •&nbsp;[articles](https://www.lesswrong.com/s/DNGjFBTxEJCpceyGn)
 
 <br>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/2dc7845a-537f-43d2-8c17-530d95ff26b2">
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/dd7401b4-6cbf-48dd-be18-21cd47bdd43d">
-<img alt="Three spherical plots, titled &quot;Latents · repulsion&quot;. Each plot shows a vibrant collection of colored circles or balls scattered over the surface of a black sphere. The first plot has the appearance of a partial color wheel, with  vibrant colors around the rim (like a rainbow), with with a conspicuously absent space at the top where &quot;red&quot; should be. The other plots show different views of the same sphere, with hue varying across the equator and tone varying from top to bottom. The central region of the second and third plots show something interesting: &quot;Red&quot; and nearby colors have been arranged into a wide ring or disc, rather than being clustered in the center. Each ball shows the reconstructed color, with a dot in the center showing the true (input) color. The true and reconstructor colors agree fairly well, except for colors close to &quot;red&quot;, which roughly agree in saturation but differ significantly in tone and hue." src="https://github.com/user-attachments/assets/dd7401b4-6cbf-48dd-be18-21cd47bdd43d">
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f6ba08c2-0826-4b9d-b942-60e1c197429a">
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/527b1e0c-7da3-49ed-a766-ad3a6ea5a8d2">
+<img alt="Four plots of latent space, each one is a simple 2D axis-aligned projection of colored points on the hypersphere. The plots are arranged into two pairs, with an arrow pointing from the first pair to the second. The first pair of plots shows a warped arrangement of points, having been bent by constraints (forces) which are illustrated with symbols. The points appear to be a disc that has been bent up toward a black triangle at one of the poles. The second pair looks almost the same, but the data have been squashed such that the points that were near the black triangle are now at the center of the sphere." src="https://github.com/user-attachments/assets/527b1e0c-7da3-49ed-a766-ad3a6ea5a8d2">
 </picture>
 
 <br><br>
+<br><br>
 
-#### OOD detection framework
+#### Subline and S₂: an OOD detection framework
 
 Novel techniques for detecting out-of-distribution inputs in language models: a new visualization and metric.
 
@@ -37,13 +36,15 @@ Novel techniques for detecting out-of-distribution inputs in language models: a 
 </picture>
 
 <br><br>
+<br><br>
 
 #### mi-ni
 
-A library and template repository to quickly spin up new AI research projects.
+A library and template repository to quickly spin up new AI research projects, with sensible defaults and access to cloud GPU compute.
 
 [Source](https://github.com/z0u/mi-ni)
 
+<br><br>
 <br><br>
 
 #### Coil
@@ -53,6 +54,7 @@ A slick visual timer app.
 [Source](https://github.com/z0u/mi-ni) •&nbsp;[progressive web app](z0u.github.io/coil-timer)
 
 <br><br>
+<br><br>
 
 #### S. Cargo 🐚
 
@@ -61,6 +63,7 @@ A unique game featuring innovative physics for character movement and environmen
 [Source](https://github.com/z0u/cargo) •&nbsp;[trailer](https://youtu.be/ToiUdV42aZY)
 
 <br><br>
+<br><br>
 
 #### Contributions to [Blender](https://blender.org)
 
@@ -68,6 +71,7 @@ A unique game featuring innovative physics for character movement and environmen
 - [Adaptive time-step for fluid particles](https://github.com/blender/blender/commit/558b646216feaa43abf44eb332d2449c68bf1b39)
 - [Baking (rendering) to vertex colors](https://github.com/blender/blender/commit/5e0e62f0407e15c936bae92d8fec043adee6ab07)
 
+<br><br>
 <br><br>
 
 ## Areas of expertise
